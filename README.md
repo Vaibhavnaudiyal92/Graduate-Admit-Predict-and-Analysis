@@ -1,4 +1,4 @@
-# Graduate-Admit-Predict-and-Analysis
+# Graduate Admit Predict and Analysis: Project Overview
 
 ## Introduction
 
