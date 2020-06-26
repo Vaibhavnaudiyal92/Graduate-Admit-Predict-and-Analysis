@@ -25,3 +25,30 @@ The dataset is owned by [Mohan S Acharya](https://www.kaggle.com/mohansacharya)
 ## Exploratory Data Analysis
 Did some EDA to analyse how some features affect the chances for getting an admit through various visualisations. 
 
+<img src="https://github.com/Vaibhavnaudiyal92/Graduate-Admit-Predict-and-Analysis/blob/master/__results___29_1.png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+ 
+<img src="https://github.com/Vaibhavnaudiyal92/Graduate-Admit-Predict-and-Analysis/blob/master/__results___33_1.png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+     
+<img src="https://github.com/Vaibhavnaudiyal92/Graduate-Admit-Predict-and-Analysis/blob/master/__results___36_1.png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+<img src="https://github.com/Vaibhavnaudiyal92/Graduate-Admit-Predict-and-Analysis/blob/master/__results___67_0.png?raw=true"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+## Model Building
+I split the data into train and test sets in ratio 75:25 for training and testing the models.
+I have used both tree and non-tree based models to find out which one works better. Following are the models used:
+1. XGBoost
+2. Lasso Regression
+3. Linear Regression
+
+## Model Performance
+XGBoost regression model outperformed other models with following scores:
+1. XGBoost Regression: RMSE = 0.06300048380978601
+2. Lasso Regression  : RMSE = 0.06426751371730151
+3. Linear Regression : RMSE = 0.06457303441764758
