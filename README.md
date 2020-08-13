@@ -52,3 +52,6 @@ XGBoost regression model outperformed other models with following scores:
 1. XGBoost Regression: RMSE = 0.06300048380978601
 2. Lasso Regression  : RMSE = 0.06426751371730151
 3. Linear Regression : RMSE = 0.06457303441764758
+
+## Custom Input
+I have also added a section where user can input his/her details and get a prediction on the basis of those details.
